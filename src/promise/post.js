@@ -15,8 +15,8 @@ function postData(urlApi, data) {
 }
 
 const data = {
-  "title": "New Product SAC",
-  "price": 212,
+  "title": "New Product TEST",
+  "price": 999,
   "description": "A description",
   "categoryId": 16,
   "images": [
